@@ -10,7 +10,7 @@ class Shoe
     # BRANDS << brand 
     # BRANDS.uniq!
     
-  if BRANDS.include?(shoe)
+  if BRANDS.include?(brand)
     else
       BRANDS << brand
     end 
