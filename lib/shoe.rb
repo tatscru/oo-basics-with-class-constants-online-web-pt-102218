@@ -10,8 +10,6 @@ class Shoe
     BRANDS << brand 
     BRANDS.uniq!
     
-    
-    
   # if BRANDS.include?(brand)
   #   else
   #     BRANDS << brand
