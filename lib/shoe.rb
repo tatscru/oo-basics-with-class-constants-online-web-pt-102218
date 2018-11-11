@@ -12,10 +12,10 @@ class Shoe
     #   BRANDS << brand 
     # BRANDS.uniq!
     
-  if BRANDS.include?(brand)
-    else
-      BRANDS << brand
-    end 
+  # if BRANDS.include?(brand)
+  #   else
+  #     BRANDS << brand
+  #   end 
   end
 
   def cobble
